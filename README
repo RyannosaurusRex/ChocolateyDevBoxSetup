@@ -1,0 +1,10 @@
+Intro
+=====
+
+Being a consultant, there are a lot of times when clients want me to login and use their machine.  Or, I'll need to get new computer setup so I can be productive.  This script is designed to be run for a new PC installation to install of the tools I normally want/need to be productive.
+
+Instructions
+============
+
+1. Right-click run.bat
+2. Select '''Run as Administrator'''
